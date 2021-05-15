@@ -6,4 +6,4 @@ This project is for html &amp; css practice.
 ### 👍 HAVE FUN 👍
 
 
-![Watch Now](./img/Design.jpg)
+![Watch Now](./img/Design.PNG)
